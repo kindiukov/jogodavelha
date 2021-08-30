@@ -1,2 +1,2 @@
-# jogodavelha
- meuprimeirojogoemjavascript
+# jogo_da_velha
+ jogo da velha em java script
